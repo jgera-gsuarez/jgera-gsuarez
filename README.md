@@ -4,9 +4,14 @@ QA Engineer Jr.
 Sobre mí:
 Estudiante de Ingeniería mecatrónica apasionado de la tecnología iniciando una carrera en QA.
  · Actualmente estoy en la recta final de un boothcamp de QA en TripleTen 🧑🏻‍💻
- · He aprendido modernas herramientas para test de software 🧰 Me encuentro siempre en constante evolución y aprendizaje.
+ · He aprendido modernas herramientas para test de software como Jira, Postman, Android Studio, y acceso y obtención de iformación de bases de datos mediante SSH en la terminal. 🧰 Me encuentro siempre en constante evolución y aprendizaje.
  · Especial atención al detalle 🔎
  · Conectemos !!
+
+Herramientas y habilidades:
+
+Mis estadísticas:
+
 
 <!--
 **jgera-gsuarez/jgera-gsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
