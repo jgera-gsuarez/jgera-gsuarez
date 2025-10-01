@@ -1,17 +1,20 @@
-## Hi there 👋
-Hola, soy Gerardo!
-QA Engineer Jr.
-Sobre mí:
+🧑🏻‍💻 About me:
 Estudiante de Ingeniería mecatrónica apasionado de la tecnología iniciando una carrera en QA.
- · Actualmente estoy en la recta final de un boothcamp de QA en TripleTen 🧑🏻‍💻
- · He aprendido modernas herramientas para test de software como Jira, Postman, Android Studio, y acceso y obtención de iformación de bases de datos mediante SSH en la terminal. 🧰 Me encuentro siempre en constante evolución y aprendizaje.
+ · Actualmente estoy a la mitad de un boothcamp de QA en TripleTen
+ · He aprendido modernas herramientas para test de software como Jira, Postman, Android Studio, y acceso y obtención de iformación de bases de datos mediante SSH en la terminal.  🧰  Me encuentro siempre en constante evolución y aprendizaje.
+
+Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer
+
+    🌱 Actualmente estoy practicando con bases de datos PostgreSQL accediendo mediante la terminal 📘 y ya he realizado proyectos de acceso a bases de datos asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.🧑‍💻
+
+
+    📫 ¿Quieres contactar conmigo? 
+
+ 
  · Especial atención al detalle 🔎
+ 
+ 
  · Conectemos !!
-
-Herramientas y habilidades:
-
-Mis estadísticas:
-
 
 <!--
 **jgera-gsuarez/jgera-gsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
