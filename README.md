@@ -1,32 +1,31 @@
-🧑🏻‍💻 About me:
-  Estudiante de Ingeniería mecatrónica apasionado de la tecnología iniciando una carrera en QA.
-  · Actualmente estoy a la mitad de un boothcamp de QA en TripleTen
-  · He aprendido modernas herramientas para test de software como Jira, Postman, Android Studio, y acceso y obtención de iformación de bases de datos mediante SSH en la terminal.  🧰  Me encuentro siempre en constante evolución y aprendizaje.
+<h1 align="center"><b>Hi , I'm Gerardo González </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=José+Gerardo+González+Suárez..&hearts;++;QA+Tester+Jr,;Manual+Testing,;Test+Automation,;Active+Learner/Researcher,;Insane+Curiousity..:>"></a>
+</p>
 
-    🌱 Actualmente estoy practicando con bases de datos PostgreSQL accediendo mediante la terminal 📘 y ya he realizado proyectos de acceso a bases de datos asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.🧑‍💻
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+Soy un estudiante de Ingeniería mecatrónica apasionado de la tecnología iniciando una carrera en Quality Assurance. Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer. Tengo especial atención al detalle 🔎
+* **Estoy a la mitad de un boothcamp de QA en TripleTen**
+  - He aprendido modernas herramientas para test de software como Jira, Postman, Android Studio, y acceso y obtención de iformación de bases de datos mediante SSH en la terminal.  🧰  Me encuentro siempre en constante evolución y aprendizaje.
+- 🌱 Actualmente estoy practicando ...
+  - Postgre SQL
+  - Acceso a bases de datos medinate terminal con SSH
+- 👯 Estoy buscando trabajar para una empresa para aportar a la calidad del software
+- Además de la tecnología, me encanta 🎵escuchar música, tocar la guitarra y pasar tiempo de calidad con los que amo
+- 📫 Puedes contactarme en: <a href="josegerardogonzalezs@icloud.com">josegerardogonzalezs@icloud.com</a>
 
-    📫 ¿Quieres contactar conmigo? 
+__Check out my GitHub repository:__
 
- 
- · Especial atención al detalle 🔎
- 
- 
- · Conectemos !!
-
-<!--
-**jgera-gsuarez/jgera-gsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p>
+    <a href="">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a ">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
