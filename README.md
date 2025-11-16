@@ -25,10 +25,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+      <img src="link" />
     </a>
     <a ">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="link" />
     </a>
   </p>
 </div>
